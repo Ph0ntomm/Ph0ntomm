@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ph0ntomm
-- 👀 I’m interested in ...Literally anything to do with programming. From website development to AI, robotics
+- 👀 I’m interested in ...Literally anything to do with programming. From app development to AI, robotics
 - 📫 How to reach me ...you can email me bober_smachniu@mail.ru or discord ph0ntom.
 
 <!---
